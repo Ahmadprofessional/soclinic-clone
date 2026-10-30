@@ -1,0 +1,146 @@
+[
+ {
+  "slug": "about-us",
+  "name": "AboutUsContent",
+  "bodyClass": "wp-singular page-template-default page page-id-130 wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-130",
+  "title": "About Us – SO Clinic"
+ },
+ {
+  "slug": "blog",
+  "name": "BlogContent",
+  "bodyClass": "wp-singular page-template-default page page-id-484 wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-484",
+  "title": "Blog – SO Clinic"
+ },
+ {
+  "slug": "cart",
+  "name": "CartContent",
+  "bodyClass": "wp-singular page-template-default page page-id-652 wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor woocommerce-cart woocommerce-page woocommerce-no-js hello-elementor-default elementor-default elementor-kit-6",
+  "title": "Cart – SO Clinic"
+ },
+ {
+  "slug": "category__blog",
+  "name": "CategoryBlogContent",
+  "bodyClass": "archive category category-blog category-1 wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-kit-6",
+  "title": "Blog – SO Clinic"
+ },
+ {
+  "slug": "checkout",
+  "name": "CheckoutContent",
+  "bodyClass": "wp-singular page-template-default page page-id-652 wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor woocommerce-cart woocommerce-page woocommerce-no-js hello-elementor-default elementor-default elementor-kit-6",
+  "title": "Cart – SO Clinic"
+ },
+ {
+  "slug": "contact-us",
+  "name": "ContactUsContent",
+  "bodyClass": "wp-singular page-template-default page page-id-304 wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-304",
+  "title": "Contact Us – SO Clinic"
+ },
+ {
+  "slug": "get-discount",
+  "name": "GetDiscountContent",
+  "bodyClass": "wp-singular page-template-default page page-id-953 wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-953",
+  "title": "Get Discount – SO Clinic"
+ },
+ {
+  "slug": "home",
+  "name": "HomeContent",
+  "bodyClass": "home wp-singular page-template page-template-elementor_header_footer page page-id-11 wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-11",
+  "title": "SO Clinic"
+ },
+ {
+  "slug": "how-to-build-a-smoothie-to-fight-inflammation",
+  "name": "HowToBuildASmoothieToFightInflammationContent",
+  "bodyClass": "wp-singular post-template-default single single-post postid-657 single-format-standard wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-kit-6",
+  "title": "How to build a smoothie to fight inflammation? – SO Clinic"
+ },
+ {
+  "slug": "my-account",
+  "name": "MyAccountContent",
+  "bodyClass": "wp-singular page-template-default page page-id-654 wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor woocommerce-account woocommerce-page woocommerce-no-js hello-elementor-default elementor-default elementor-kit-6",
+  "title": "My account – SO Clinic"
+ },
+ {
+  "slug": "our-approach",
+  "name": "OurApproachContent",
+  "bodyClass": "wp-singular page-template-default page page-id-219 wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-219",
+  "title": "Our Approach – SO Clinic"
+ },
+ {
+  "slug": "our-team",
+  "name": "OurTeamContent",
+  "bodyClass": "wp-singular page-template-default page page-id-764 wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-764",
+  "title": "Our Team – SO Clinic"
+ },
+ {
+  "slug": "packages",
+  "name": "PackagesContent",
+  "bodyClass": "wp-singular page-template-default page page-id-185 wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-185",
+  "title": "Packages – SO Clinic"
+ },
+ {
+  "slug": "privacy-policy",
+  "name": "PrivacyPolicyContent",
+  "bodyClass": "privacy-policy wp-singular page-template-default page page-id-3 wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-kit-6",
+  "title": "Privacy Policy – SO Clinic"
+ },
+ {
+  "slug": "product-category__tea",
+  "name": "ProductCategoryTeaContent",
+  "bodyClass": "archive tax-product_cat term-tea term-21 wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor woocommerce woocommerce-page woocommerce-no-js hello-elementor-default elementor-default elementor-kit-6",
+  "title": "Tea – SO Clinic"
+ },
+ {
+  "slug": "products",
+  "name": "ProductsContent",
+  "bodyClass": "wp-singular page-template page-template-elementor_header_footer page page-id-260 wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-260",
+  "title": "Products – SO Clinic"
+ },
+ {
+  "slug": "product__so-sleepy-tea",
+  "name": "ProductSoSleepyTeaContent",
+  "bodyClass": "wp-singular product-template-default single single-product postid-669 wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor woocommerce woocommerce-page woocommerce-no-js hello-elementor-default elementor-default elementor-kit-6",
+  "title": "SO Sleepy Tea – SO Clinic"
+ },
+ {
+  "slug": "resources",
+  "name": "ResourcesContent",
+  "bodyClass": "wp-singular page-template-default page page-id-813 wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-813",
+  "title": "Resources – SO Clinic"
+ },
+ {
+  "slug": "services",
+  "name": "ServicesContent",
+  "bodyClass": "wp-singular page-template-default page page-id-167 wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-167",
+  "title": "Conditions We Support – SO Clinic"
+ },
+ {
+  "slug": "shop-page",
+  "name": "ShopPageContent",
+  "bodyClass": "wp-singular page-template-default page page-id-681 wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-681",
+  "title": "Shop Page – SO Clinic"
+ },
+ {
+  "slug": "shop",
+  "name": "ShopContent",
+  "bodyClass": "archive post-type-archive post-type-archive-product wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor woocommerce-shop woocommerce woocommerce-page woocommerce-no-js hello-elementor-default elementor-default elementor-kit-6",
+  "title": "Shop – SO Clinic"
+ },
+ {
+  "slug": "testimonials",
+  "name": "TestimonialsContent",
+  "bodyClass": "wp-singular page-template-default page page-id-466 wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-466",
+  "title": "Testimonials – SO Clinic"
+ },
+ {
+  "slug": "top-tips-for-gut-health-from-nutritionists",
+  "name": "TopTipsForGutHealthFromNutritionistsContent",
+  "bodyClass": "wp-singular post-template-default single single-post postid-661 single-format-standard wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-kit-6",
+  "title": "Top Tips for Gut Health from Nutritionists – SO Clinic"
+ },
+ {
+  "slug": "why-do-we-start-with-liver-support-in-our-clinic",
+  "name": "WhyDoWeStartWithLiverSupportInOurClinicContent",
+  "bodyClass": "wp-singular post-template-default single single-post postid-666 single-format-standard wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-kit-6",
+  "title": "Why do we start with liver support in our clinic? – SO Clinic"
+ }
+]

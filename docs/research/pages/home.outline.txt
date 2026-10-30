@@ -1,0 +1,87 @@
+## header.elementor-location-header
+container#a9ed805
+  container#8083826
+    image#355992d "" -> https://soclinic.uk/ [img Gemini_Generated_Image_jc1ha1jc1ha1jc1h-1-1024x367.png]
+    nav-menu#61c5a72 "Home Conditions Products Our Approach Testimonials Blog Our Team Resources Packages Our Partners Home Conditions Products Our Approach Testi" -> https://soclinic.uk/
+    button#3415ec0 "Contact Us" -> https://soclinic.uk/contact-us/
+    woocommerce-menu-cart#2a31998 "£0.00 0 Cart" -> #
+## [data-elementor-type]:not([data-elementor-type=header]):not([data-elementor-type=footer])
+container#ac18df5
+  heading#aca2189 "Improve your health and vitality with us."
+  heading#d9272e6 "Welcome to SO Clinic, where your path to balance and vitality begins. Here, science meets nature, and the journey to holistic wellness unfol"
+  button#3068895 "BOOK A DISCOVERY CALL" -> https://soclinic.uk/contact-us/
+container#ebebd4e
+  container#fab28a9
+    image#40bf55c "" [img shany-img4.jpg]
+  container#dc1dc86
+    heading#c8e90d3 "About"
+    heading#0a9bda7 "At SO Clinic, Shany believes that true wellness comes from a harmonious balance between the mind, body, and spirit. Her mission is to harnes"
+    container#4eb3bf5
+      button#95354ba "BOOK A DISCOVERY CALL" -> https://soclinic.uk/contact-us/
+container#4463bd1
+  container#c1817e0
+    heading#aa341cf "Welcome to SO Clinic"
+    heading#5435498 "My name is Shany and I am a dedicated nutritional therapist specialising in skin health, with a particular focus on conditions such as eczem"
+    heading#f41fb1c "Shany Maksudova, Nutritional Therapist, Dip CNM, mANP"
+    container#a584374
+      button#f93bf86 "BOOK A DISCOVERY CALL" -> https://soclinic.uk/contact-us/
+  container#1353ccb
+    image#d4cb550 "" [img shany-img.jpg]
+container#8f48599
+  container#b28854b
+    container#0592047
+      heading#5e16e5d "Conditions We Support"
+      container#5156741
+        container#7bb192e
+          heading#9ad7996 "Skin Health"
+          image#4d8aa15 "" [img woman-posing-with-bathrobe-spa-rlcwuva2u0spz5ghydzg3w8u2z4k6itgur17lrd9dk.jpg]
+          button#d4c8160 "Read More" -> https://soclinic.uk/services/#skinhealth
+        container#a8b0146
+          heading#4995086 "Improve Immunity"
+          image#e647b40 "" [img 137691-rlcwuva2u0spz5ghydzg3w8u2z4k6itgur17lrd9dk.jpg]
+          button#c5399cd "Read More" -> https://soclinic.uk/services/#improveimmunity
+        container#1fb3f07
+          heading#d8167a0 "Gut health"
+          image#c238720 "" [img 348799-rlcwuva2u0spz5ghydzg3w8u2z4k6itgur17lrd9dk.jpg]
+          button#a3cb617 "Read More" -> https://soclinic.uk/services/#guthealth
+      divider#74ceda2 ""
+      container#371ca7c
+        container#ae5f85d
+          heading#c4b954b "Insomnia manegement"
+          image#99d325e "" [img 1447-rlcwuva2u0spz5ghydzg3w8u2z4k6itgur17lrd9dk.jpg]
+          button#cbe7732 "Read More" -> https://soclinic.uk/services/#insomniamanegement
+        container#7443844
+          heading#dc52a4c "Migraine releive"
+          image#c8983ac "" [img 123453-rlcwuva2u0spz5ghydzg3w8u2z4k6itgur17lrd9dk.jpg]
+          button#ac37c57 "Read More" -> https://soclinic.uk/services/#migrainereleive
+        container#ff3f193
+          heading#7eaeec5 "Weight management"
+          image#54b4cba "" [img 2148262188-rlcwuva2u0spz5ghydzg3w8u2z4k6itgur17lrd9dk.jpg]
+          button#19ccf66 "Read More" -> https://soclinic.uk/services/#weightmanagement
+      divider#2c14e2c ""
+container#61e179d
+  container#b4287cb
+    heading#b31091d "My mission and values"
+    heading#03ef2a0 "I take a comprehensive and elevated approach to nutrition and wellness—blending personalised nutrition plans with advanced testing to create"
+    button#9edac14 "BOOK A DISCOVERY CALL" -> https://soclinic.uk/contact-us/
+## footer.elementor-location-footer
+container#68da2c1
+  container#e91442a
+    container#c2abb66
+      heading#35ec4a3 "SO CLINIC"
+      heading#b266628 "Welcome to "SO Clinic", where your path to balance and vitality begins. Here, science meets nature, and the journey to holistic wellness unf"
+      social-icons#d98afeb "Facebook Instagram Linkedin" -> https://www.facebook.com/share/1DFBeoEou1/?mibextid=wwXIfr
+    container#fd27bb2
+      container#a98b921
+        heading#caaaaf6 "QUICK LINKS"
+      container#a926c17
+        container#4f1e0db
+          icon-list#4775b5d "Home About Condition we support Products Our Approach" -> https://soclinic.uk/
+        container#ab871ad
+          icon-list#5b1e1e9 "Testimonials Packages Blog" -> https://soclinic.uk/testimonials/
+    container#4dd3060
+      heading#4f83ba6 "Our Certificate"
+      image#dd3b651 "" [img ANP-Logo-2019-Teal-hi-res-1024x269.jpg]
+      image#3128c9d "" [img GNC-LOGOnew-1024x305.jpg]
+container#5b6284a
+  text-editor#ec45a32 "2025 – Copyright | ALL RIGHT RESERVED So Clinic | Privacy Policy" -> https://soclinic.uk/privacy-policy/

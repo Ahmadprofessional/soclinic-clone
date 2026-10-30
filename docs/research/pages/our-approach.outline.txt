@@ -1,0 +1,58 @@
+## header.elementor-location-header
+container#a9ed805
+  container#8083826
+    image#355992d "" -> https://soclinic.uk/ [img Gemini_Generated_Image_jc1ha1jc1ha1jc1h-1-1024x367.png]
+    nav-menu#61c5a72 "Home Conditions Products Our Approach Testimonials Blog Our Team Resources Packages Our Partners Home Conditions Products Our Approach Testi" -> https://soclinic.uk/
+    button#3415ec0 "Contact Us" -> https://soclinic.uk/contact-us/
+    woocommerce-menu-cart#2a31998 "£0.00 0 Cart" -> #
+## [data-elementor-type]:not([data-elementor-type=header]):not([data-elementor-type=footer])
+container#128dbc2
+  container#cb3bcbd
+    heading#b6f5024 "Our Approach"
+    button#f27e443 "BOOK A DISCOVERY CALL" -> https://soclinic.uk/contact-us/
+container#cc42d3e
+  container#98c98a2
+    container#b524c67
+      container#635e336
+        image#91a57ca "" [img TOTAL-wellness.jpg]
+      container#1a91c26
+        heading#58166fe "Root Cause Investigation"
+        heading#17efd8e "I am dedicated to guiding you to the path of sustainable, long-term health. I offer a personalised therapeutic plan and functional diagnosti"
+    container#c240239
+      container#60e8849
+        text-editor#b122622 "Once we’ve connected, we will schedule your initial consultation, where we will conduct a thorough case history review, delving into your sy"
+container#b8912d1
+  container#ea3f63b
+    container#ea02ad7
+      container#6e6efb8
+        heading#35fe53a "Functional Testing (Overview and Labs We Work With)"
+        heading#3825e0c "I offer functional diagnostics to support a deeper understanding of your health needs as part of your personalised therapeutic approach."
+container#ec545eb
+  container#e5567ac
+    container#ba1a1b6
+      container#af36b1e
+        image#4f0b3cb "" [img istockphoto-947378396-612x612-1.jpg]
+      container#11212fe
+        heading#7dd3464 "Personalised Nutrition & Lifestyle Plans"
+        heading#c6ffef5 "Each therapeutic protocol is carefully customised based on your health status, potential nutritional imbalances, and specific goals. Our app"
+## footer.elementor-location-footer
+container#68da2c1
+  container#e91442a
+    container#c2abb66
+      heading#35ec4a3 "SO CLINIC"
+      heading#b266628 "Welcome to "SO Clinic", where your path to balance and vitality begins. Here, science meets nature, and the journey to holistic wellness unf"
+      social-icons#d98afeb "Facebook Instagram Linkedin" -> https://www.facebook.com/share/1DFBeoEou1/?mibextid=wwXIfr
+    container#fd27bb2
+      container#a98b921
+        heading#caaaaf6 "QUICK LINKS"
+      container#a926c17
+        container#4f1e0db
+          icon-list#4775b5d "Home About Condition we support Products Our Approach" -> https://soclinic.uk/
+        container#ab871ad
+          icon-list#5b1e1e9 "Testimonials Packages Blog" -> https://soclinic.uk/testimonials/
+    container#4dd3060
+      heading#4f83ba6 "Our Certificate"
+      image#dd3b651 "" [img ANP-Logo-2019-Teal-hi-res-1024x269.jpg]
+      image#3128c9d "" [img GNC-LOGOnew-1024x305.jpg]
+container#5b6284a
+  text-editor#ec45a32 "2025 – Copyright | ALL RIGHT RESERVED So Clinic | Privacy Policy" -> https://soclinic.uk/privacy-policy/

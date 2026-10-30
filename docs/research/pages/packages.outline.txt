@@ -1,0 +1,89 @@
+## header.elementor-location-header
+container#a9ed805
+  container#8083826
+    image#355992d "" -> https://soclinic.uk/ [img Gemini_Generated_Image_jc1ha1jc1ha1jc1h-1-1024x367.png]
+    nav-menu#61c5a72 "Home Conditions Products Our Approach Testimonials Blog Our Team Resources Packages Our Partners Home Conditions Products Our Approach Testi" -> https://soclinic.uk/
+    button#3415ec0 "Contact Us" -> https://soclinic.uk/contact-us/
+    woocommerce-menu-cart#2a31998 "£0.00 0 Cart" -> #
+## [data-elementor-type]:not([data-elementor-type=header]):not([data-elementor-type=footer])
+container#5451da6
+  container#cd3ff1f
+    heading#98f7daf "PACKAGES"
+    button#382b8d1 "BOOK A DISCOVERY CALL" -> https://soclinic.uk/contact-us/
+container#5043355
+  container#fab74f1
+    container#7f3d490
+      container#2acd695
+        heading#fa67cb5 "Health MOT"
+        heading#e719f06 "Single nutritional consultation £150 -This is for you if you don’t have any underlying health conditions but want expert nutritional guidanc"
+        heading#dc1ffbc "Optional Follow-Up: A 30-minute session can be booked after 4 weeks for £70"
+        container#e5cd902
+          button#d92f15e "Book Now" -> https://soclinic.uk/contact-us/
+      container#acaf16c
+        heading#b1e0f7c "Includes"
+        text-editor#4d09555 "• 60-minute consultation to gather information on your goals. • Personalised Written Plan: Detailed recommendations for dietary and lifestyl"
+container#377b286
+  container#3c605d6
+    container#ac867f4
+      container#8696462
+        heading#ea25558 "Acne Recovery Program (12 Weeks) £900"
+        heading#4369b28 "Acne Recovery Program (12 Weeks) £900 – A comprehensive programme designed to address the root causes of acne through personalised nutrition"
+        container#3a076f2
+          button#24c8e4b "Book Now" -> https://soclinic.uk/contact-us/
+      container#9519c11
+        heading#144d2c6 "Includes"
+        text-editor#10cfdd4 "Initial 60-minute consultation with full health and skin assessment.Personalised 12-week nutrition and lifestyle plan.Individualised supplem"
+container#05ea0ac
+  container#365dec9
+    container#4b6a93e
+      container#4a67271
+        heading#213f9a6 "Personalised Skin Assessment £100"
+        heading#62e9e0e "Personalised Skin Assessment £100 Ideal if you're experiencing skin concerns such as acne, pigmentation, eczema, rosacea, or premature agein"
+        container#9d820e9
+          button#a86223a "Book Now" -> https://soclinic.uk/contact-us/
+      container#35b4698
+        heading#4d55558 "Includes"
+        text-editor#61e30a7 "60-minute comprehensive skin health consultation.In-depth review of your skin concerns, lifestyle, nutrition, and skincare routine.Personali"
+container#fa5c90c
+  container#0e81c0c
+    container#ae10e35
+      container#f63c1de
+        heading#967638d "Eczema Reset Program (6 Weeks) £500"
+        heading#992bc0c "Eczema Reset Program (6 Weeks) £500 Designed to help identify potential triggers, reduce inflammation, and support long-term skin health thr"
+        container#458bf16
+          button#0ad5027 "Book Now" -> https://soclinic.uk/contact-us/
+      container#6b65eca
+        heading#cc9cb47 "Includes"
+        text-editor#1c6ab1b "Comprehensive 60-minute initial consultation.Personalised eczema management and nutrition plan.Dietary guidance to help identify and manage "
+container#d18b7aa
+  container#c4acf8e
+    container#a718857
+      container#6fb7dce
+        heading#878c465 "Migraine Relief Blueprint (12 Weeks) £1200"
+        heading#d20a8a2 "Migraine Relief Blueprint (12 Weeks) £1200 – A structured programme focused on reducing migraine frequency and severity by identifying nutri"
+        container#80da76f
+          button#681fa9b "Book Now" -> https://soclinic.uk/contact-us/
+      container#9a137df
+        heading#855b9de "Includes"
+        text-editor#5ade4ea "60-minute comprehensive health consultation.Detailed assessment of migraine history and potential triggers.Personalised nutrition and lifest"
+## footer.elementor-location-footer
+container#68da2c1
+  container#e91442a
+    container#c2abb66
+      heading#35ec4a3 "SO CLINIC"
+      heading#b266628 "Welcome to "SO Clinic", where your path to balance and vitality begins. Here, science meets nature, and the journey to holistic wellness unf"
+      social-icons#d98afeb "Facebook Instagram Linkedin" -> https://www.facebook.com/share/1DFBeoEou1/?mibextid=wwXIfr
+    container#fd27bb2
+      container#a98b921
+        heading#caaaaf6 "QUICK LINKS"
+      container#a926c17
+        container#4f1e0db
+          icon-list#4775b5d "Home About Condition we support Products Our Approach" -> https://soclinic.uk/
+        container#ab871ad
+          icon-list#5b1e1e9 "Testimonials Packages Blog" -> https://soclinic.uk/testimonials/
+    container#4dd3060
+      heading#4f83ba6 "Our Certificate"
+      image#dd3b651 "" [img ANP-Logo-2019-Teal-hi-res-1024x269.jpg]
+      image#3128c9d "" [img GNC-LOGOnew-1024x305.jpg]
+container#5b6284a
+  text-editor#ec45a32 "2025 – Copyright | ALL RIGHT RESERVED So Clinic | Privacy Policy" -> https://soclinic.uk/privacy-policy/

@@ -1,0 +1,84 @@
+## header.elementor-location-header
+container#a9ed805
+  container#8083826
+    image#355992d "" -> https://soclinic.uk/ [img Gemini_Generated_Image_jc1ha1jc1ha1jc1h-1-1024x367.png]
+    nav-menu#61c5a72 "Home Conditions Products Our Approach Testimonials Blog Our Team Resources Packages Our Partners Home Conditions Products Our Approach Testi" -> https://soclinic.uk/
+    button#3415ec0 "Contact Us" -> https://soclinic.uk/contact-us/
+    woocommerce-menu-cart#2a31998 "£0.00 0 Cart" -> #
+## [data-elementor-type]:not([data-elementor-type=header]):not([data-elementor-type=footer])
+container#8f4dc6c
+  container#cb7dd19
+    heading#03727d1 "Conditions We Support"
+    button#cceb304 "BOOK A DISCOVERY CALL" -> https://soclinic.uk/contact-us/
+container#2827694
+  heading#95f563f "What is Nutritional Therapy?"
+  heading#42ff1a0 "Naturopathic nutritional therapy is a holistic approach to health that combines the principles of naturopathy with evidence-based nutritiona"
+container#b9f85d7
+  container#ea55475
+    container#309a5a6
+      container#b4f5d14
+        heading#d2d727d "Skin health"
+        heading#979eafe "I specialise in skin conditions such as acne, eczema, rosacea, and psoriasis. Many skin conditions are linked to internal imbalances, such a"
+      container#9f46531
+        image#8da43bf "" [img Screenshot-2025-12-13-021200.png]
+    container#fcc8a48
+      container#c137903
+        image#c58123a "" [img Screenshot-2025-12-13-021234.png]
+      container#52e3db9
+        heading#ff3912a "Immunity support"
+        heading#db9f68e "Are you tired of battling seasonal hay fever, allergies, and constant colds? I can help strengthen your immune system by enhancing your body"
+        container#0a53c25
+          button#d50d320 "contact us" -> https://soclinic.uk/contact-us/
+container#a63a7a0
+  container#c371a03
+    container#83c7bbc
+      container#7b24847
+        heading#b5304a9 "GUT health"
+        heading#aaac64c "The digestive system plays a pivotal role in overall health, with a profound impact on mood and well-being. I specialise in addressing a wid"
+      container#63b8c4f
+        image#87ab9c9 "" [img Screenshot-2025-12-13-021332.png]
+    container#1a0077f
+      container#bde7024
+        image#989a647 "" [img Screenshot-2025-12-13-021234.png]
+      container#1813747
+        heading#5468ada "Migraine Relief"
+        heading#8dea298 "I understand firsthand how debilitating chronic migraines can be, often stealing days or even weeks of your life during recovery. Migraines "
+        container#f3d8b45
+          button#7628021 "Contact Us" -> https://soclinic.uk/contact-us/
+container#c81bf5d
+  container#d4c2a22
+    container#d28c739
+      container#86ebef0
+        heading#dde97f1 "Insomnia management"
+        heading#ea6b8f6 "Insomnia can significantly disrupt your life and is often a sign that your circadian rhythm is out of balance. Left unaddressed, it can cont"
+      container#edbb03b
+        image#733434e "" [img Screenshot-2025-12-13-021404.png]
+    container#e30a6cf
+      container#6cf1bff
+        image#1695213 "" [img Screenshot-2025-12-13-021428.png]
+      container#09b292c
+        heading#24a4043 "Weight management"
+        heading#f67d9bb "I support both women and men who struggle with weight management—whether it’s difficulty losing weight, gaining weight, or maintaining a hea"
+        container#3430a3c
+          button#2b1a17d "Contact Us" -> https://soclinic.uk/contact-us/
+## footer.elementor-location-footer
+container#68da2c1
+  container#e91442a
+    container#c2abb66
+      heading#35ec4a3 "SO CLINIC"
+      heading#b266628 "Welcome to "SO Clinic", where your path to balance and vitality begins. Here, science meets nature, and the journey to holistic wellness unf"
+      social-icons#d98afeb "Facebook Instagram Linkedin" -> https://www.facebook.com/share/1DFBeoEou1/?mibextid=wwXIfr
+    container#fd27bb2
+      container#a98b921
+        heading#caaaaf6 "QUICK LINKS"
+      container#a926c17
+        container#4f1e0db
+          icon-list#4775b5d "Home About Condition we support Products Our Approach" -> https://soclinic.uk/
+        container#ab871ad
+          icon-list#5b1e1e9 "Testimonials Packages Blog" -> https://soclinic.uk/testimonials/
+    container#4dd3060
+      heading#4f83ba6 "Our Certificate"
+      image#dd3b651 "" [img ANP-Logo-2019-Teal-hi-res-1024x269.jpg]
+      image#3128c9d "" [img GNC-LOGOnew-1024x305.jpg]
+container#5b6284a
+  text-editor#ec45a32 "2025 – Copyright | ALL RIGHT RESERVED So Clinic | Privacy Policy" -> https://soclinic.uk/privacy-policy/

@@ -1,0 +1,13 @@
+/* Global base. The visual system comes from wp.css (the original Elementor/Hello theme styles),
+   so Tailwind's preflight is intentionally not imported — it would fight the Elementor reset. */
+html {
+  -webkit-text-size-adjust: 100%;
+}
+body {
+  margin: 0;
+}
+/* The merged Elementor sheets contain a page-specific `:root{--page-title-display:none}`;
+   the live site's frontend.min.css default is `block`, and that is what plain pages (privacy, cart…) show. */
+html:root {
+  --page-title-display: block;
+}

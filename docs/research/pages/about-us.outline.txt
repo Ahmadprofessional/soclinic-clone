@@ -1,0 +1,63 @@
+## header.elementor-location-header
+container#a9ed805
+  container#8083826
+    image#355992d "" -> https://soclinic.uk/ [img Gemini_Generated_Image_jc1ha1jc1ha1jc1h-1-1024x367.png]
+    nav-menu#61c5a72 "Home Conditions Products Our Approach Testimonials Blog Our Team Resources Packages Our Partners Home Conditions Products Our Approach Testi" -> https://soclinic.uk/
+    button#3415ec0 "Contact Us" -> https://soclinic.uk/contact-us/
+    woocommerce-menu-cart#2a31998 "£0.00 0 Cart" -> #
+## [data-elementor-type]:not([data-elementor-type=header]):not([data-elementor-type=footer])
+container#55ec888
+  container#6d5588e
+    heading#86b5a04 "About us"
+    button#7d182c6 "BOOK A DISCOVERY CALL" -> https://soclinic.uk/contact-us/
+container#17c67bb
+  container#4513a88
+    heading#7fa9325 "Conditions We Support"
+    heading#619a38b "Skin Health"
+    heading#56848e9 "The skin often mirrors underlying health issues, and deficiencies in essential nutrients can have a profound impact on its condition. At SO "
+    divider#92b4e74 ""
+  container#54faaf2
+    heading#9dbcc6b "see all"
+    image#fc15186 "" [img Screenshot-2025-12-11-224430.png]
+container#1794bfc
+  container#c3eea69
+    heading#52a746c "Nutritionists in London: our Services"
+  container#e4e0bac
+    container#4e1433f
+      heading#138cff7 "With ever-changing and busy lifestyles we seek quicker results, and our IHT machine is designed to help you achieve just that. After your ve"
+      spacer#693b544 ""
+      image#354c98d "" [img Screenshot-2025-12-11-230023.png]
+      container#d547cde
+        button#a8fede9 "BOOK A DISCOVERY CALL" -> https://soclinic.uk/contact-us/
+    container#4c612fc
+      heading#2c9d38c "At SO Clinic, we guide you towards long-term, sustainable health by integrating Nutritional Therapy, Intermittent Hypoxic Training (IHT), an"
+      image#e8638b1 "" [img Screenshot-2025-12-11-230038.png]
+container#db42f28
+  container#bdc0b84
+    image#2aa3bc9 "" [img Screenshot-2025-12-11-230827.png]
+  container#8f5ac23
+    heading#6639e18 "Our Approach"
+    heading#d5d96c7 "At SO Clinic, we are dedicated to guiding you to the path of sustainable, long-term health. We offer a personalised therapeutic plan that co"
+    container#5f9f41d
+      button#34a7cb7 "CONTACT US" -> https://soclinic.uk/contact-us/
+## footer.elementor-location-footer
+container#68da2c1
+  container#e91442a
+    container#c2abb66
+      heading#35ec4a3 "SO CLINIC"
+      heading#b266628 "Welcome to "SO Clinic", where your path to balance and vitality begins. Here, science meets nature, and the journey to holistic wellness unf"
+      social-icons#d98afeb "Facebook Instagram Linkedin" -> https://www.facebook.com/share/1DFBeoEou1/?mibextid=wwXIfr
+    container#fd27bb2
+      container#a98b921
+        heading#caaaaf6 "QUICK LINKS"
+      container#a926c17
+        container#4f1e0db
+          icon-list#4775b5d "Home About Condition we support Products Our Approach" -> https://soclinic.uk/
+        container#ab871ad
+          icon-list#5b1e1e9 "Testimonials Packages Blog" -> https://soclinic.uk/testimonials/
+    container#4dd3060
+      heading#4f83ba6 "Our Certificate"
+      image#dd3b651 "" [img ANP-Logo-2019-Teal-hi-res-1024x269.jpg]
+      image#3128c9d "" [img GNC-LOGOnew-1024x305.jpg]
+container#5b6284a
+  text-editor#ec45a32 "2025 – Copyright | ALL RIGHT RESERVED So Clinic | Privacy Policy" -> https://soclinic.uk/privacy-policy/
